@@ -28,13 +28,13 @@
   kernelrelease: "2.6.32-642.13.1.el6.x86_64"
   kernelversion: "2.6.32"
   memorysize: "1.62 GB"
-  memoryfree: "355.32 MB"
+  memoryfree: "239.77 MB"
   swapsize: "4.00 GB"
   swapfree: "3.98 GB"
   swapsize_mb: "4092.00"
-  swapfree_mb: "4078.70"
+  swapfree_mb: "4078.09"
   memorysize_mb: "1655.03"
-  memoryfree_mb: "355.32"
+  memoryfree_mb: "239.77"
   memorytotal: "1.62 GB"
   netmask: "255.255.240.0"
   network_eth0: "172.31.112.0"
@@ -60,10 +60,10 @@
     SSHFP 1 2 2f3f558316040084bd2eda9c595c6763b5fdcc194d0f1fe49dc50c437083c3c6
   timezone: UTC
   uniqueid: "007f0100"
-  uptime: "5:10 hours"
+  uptime: "5:37 hours"
   uptime_days: 0
   uptime_hours: 5
-  uptime_seconds: 18658
+  uptime_seconds: 20223
   virtual: xenu
   is_virtual: "true"
   concat_basedir: /var/opt/lib/pe-puppet/concat

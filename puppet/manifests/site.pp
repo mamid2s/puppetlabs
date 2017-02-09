@@ -51,6 +51,7 @@ node /^sandeep1201\d{1}.mylabserver.com$/ {
 	include base::params
 	include base::variables
 	include base::ssh
+	include ntp
 	notify {'This is a test notify':
 	}                      
 
