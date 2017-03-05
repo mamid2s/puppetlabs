@@ -1,5 +1,5 @@
 class base::motd {
-	$author = "anthony"
+	$author = "sandeep"
 
 	file {'/etc/motd':
 	ensure => file,
